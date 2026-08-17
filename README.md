@@ -10,15 +10,25 @@ To run the program, you need to open the file in a python-supported coding app l
 number_of_notebooks - the amount of notebooks to be given by the user
 box_number - the amount of boxes to be given by the user
 
-#Sample Input
+#Sample Input1
 What is the total amount of notebooks?
 11
 How many of them fit inside one box?
 2
 
-#Sample Output
+#Sample Input2
+What is the total amount of notebooks?
+9
+How many of them fit inside one box?
+21
+
+#Sample Output1
 the total number of boxes tha can be filled is: 5
 the number of leftover notebooks is: 1 left
+
+#Sample Output2
+A full box cannot be filled, therefore 9 shall go in the loose pack
+
 
 #Author
 Eros Hendrick F. Mangubat
